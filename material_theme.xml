@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-35bc279f:169539e21f9:-8000" />
+  </component>
+</application>

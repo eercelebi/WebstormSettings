@@ -1,0 +1,2 @@
+# WebstormSettings
+Settings for webstorm

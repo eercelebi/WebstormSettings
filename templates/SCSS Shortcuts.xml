@@ -1,0 +1,7 @@
+<templateSet group="SCSS Shortcuts">
+  <template name="bemignore" value="/* postcss-bem-linter: ignore */" description="/* postcss-bem-linter: ignore */" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

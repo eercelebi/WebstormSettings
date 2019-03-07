@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="Atom One Dark copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-06T14:24:17</property>
+    <property name="created">2019-03-06T20:02:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.5.0.0</property>
     <property name="modified">2019-03-06T20:03:54</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -3765,11 +3765,6 @@
     <option name="Unresolved reference access">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-      </value>
-    </option>
-    <option name="VARIABLE_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="de9e21" />
       </value>
     </option>
     <option name="VELOCITY_KEYWORD">
